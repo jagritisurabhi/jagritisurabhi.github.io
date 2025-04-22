@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yourusername.github.io/redmango",
+  "homepage": "https://jagritisurabhi.github.io/redmango",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
